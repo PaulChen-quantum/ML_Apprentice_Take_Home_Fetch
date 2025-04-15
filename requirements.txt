@@ -1,0 +1,8 @@
+torch>=1.13.0
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+
+If you used Jupyter or additional tools, include:
+numpy
+scikit-learn
+ipykernel
